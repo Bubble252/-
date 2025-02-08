@@ -1,0 +1,6 @@
+|t_ff
+CLK => Q_TEMP.CLK
+T => Q_TEMP.ENA
+Q << Q_TEMP.DB_MAX_OUTPUT_PORT_TYPE
+
+

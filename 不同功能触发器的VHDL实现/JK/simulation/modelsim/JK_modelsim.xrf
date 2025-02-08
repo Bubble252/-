@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/huawei/Desktop/JK/rtl/JK.vhd
+source_file = 1, C:/Users/huawei/Desktop/JK/db/JK.cbx.xml
+source_file = 1, d:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, d:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, d:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, d:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = JK
+instance = comp, \Q~output\, Q~output, JK, 1
+instance = comp, \NQ~output\, NQ~output, JK, 1
+instance = comp, \CLK~input\, CLK~input, JK, 1
+instance = comp, \CLK~inputclkctrl\, CLK~inputclkctrl, JK, 1
+instance = comp, \K~input\, K~input, JK, 1
+instance = comp, \Q_TEMP~0\, Q_TEMP~0, JK, 1
+instance = comp, \J~input\, J~input, JK, 1
+instance = comp, \Q_TEMP~1\, Q_TEMP~1, JK, 1
+instance = comp, \NQ_TEMP~0\, NQ_TEMP~0, JK, 1

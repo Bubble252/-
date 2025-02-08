@@ -1,0 +1,13 @@
+|JK
+CLK => NQ_TEMP.CLK
+CLK => Q_TEMP.CLK
+J => process_0.IN0
+J => process_0.IN0
+J => process_0.IN0
+K => process_0.IN1
+K => process_0.IN1
+K => process_0.IN1
+Q <= Q_TEMP.DB_MAX_OUTPUT_PORT_TYPE
+NQ <= NQ_TEMP.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/huawei/Desktop/D/rtl/dff2.vhd
+source_file = 1, C:/Users/huawei/Desktop/D/db/dff2.cbx.xml
+source_file = 1, d:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, d:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, d:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, d:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = dff2
+instance = comp, \EN~input\, EN~input, dff2, 1
+instance = comp, \Q~output\, Q~output, dff2, 1
+instance = comp, \CLK~input\, CLK~input, dff2, 1
+instance = comp, \D~input\, D~input, dff2, 1
+instance = comp, \Q1~0\, Q1~0, dff2, 1
+instance = comp, \RST~input\, RST~input, dff2, 1

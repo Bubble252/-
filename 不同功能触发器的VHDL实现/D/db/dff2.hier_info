@@ -1,0 +1,8 @@
+|dff2
+CLK => Q1.CLK
+RST => Q1.ACLR
+EN => Q1.ENA
+D => Q1.DATAIN
+Q <= Q1.DB_MAX_OUTPUT_PORT_TYPE
+
+
